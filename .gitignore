@@ -1,5 +1,6 @@
 node_modules/
 config/db.js
+public/bower_components/
 
 # Ignore docs files
 /_site/
